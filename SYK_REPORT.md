@@ -132,7 +132,7 @@ The SYK model's phase space appears richer than anticipated, with disorder reali
 - **Data Issue**: seed=42 appears 8 times each for N=20 and N=24 (multiple runs)
 - **Note**: Eigenvalues saved for 249 files, enabling SFF calculation for those realizations
 
-![Level Spacing Ratio Distribution](ensemble_distribution.png)
+![Level Spacing Ratio Distribution](complete_syk_analysis.png)
 *Figure: Distribution of level spacing ratios across 691 disorder realizations. The ensemble data shows N=20 (r̄ = 0.3943), N=24 (r̄ = 0.4231), and critically N=28 (r̄ = 0.3535) demonstrates near-integrable behavior, suggesting strong finite-size effects. Note: The duplication of seed=42 resulted from multiple independent test runs using the default seed before the full ensemble sweep was configured.*
 
 ## 6. Future Directions
