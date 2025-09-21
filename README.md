@@ -1,3 +1,5 @@
+[2025-09-21 The Mythology of Numbers](the-mythology-of-numbers.md)
+
 [2025-09-21 The universe is the most efficient computer for running itself](building-the-oracle-of-humanity.md)
 
 [2025-09-21 megaomega](megaomega.md)
