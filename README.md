@@ -1,3 +1,6 @@
+###### 2025-09-23
+[Math](math.md)
+
 ###### 2025-09-21
 [The Mythology of Numbers](the-mythology-of-numbers.md)
 
