@@ -25,3 +25,4 @@ This idea of mathematics as a "religion of truth" offers rich ground for explora
 This perspective reveals mathematics not as a dry, abstract subject, but as a vibrant, living testament to the human pursuit of understanding the universe through reason.
 
 ---
+© Züri Bar Yochay
