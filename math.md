@@ -14,3 +14,6 @@ Ultimately, mathematics serves as the host for the evolution of intelligence its
 It provides the essential framework for science, engineering, and all forms of rigorous reasoning. 
 
 By giving us the tools to model the universe and build technology, mathematics is not just something we learn; it's the fundamental operating system on which human progress runs.
+
+---
+© Züri Bar Yochay
