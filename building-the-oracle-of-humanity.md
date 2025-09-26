@@ -85,3 +85,6 @@ We are forced to conclude that any attempt to perfectly simulate our universe fr
 ⁵ Turing, A. M. (1937). "On Computable Numbers, with an Application to the Entscheidungsproblem". _Proceedings of the London Mathematical Society_. s2-42 (1): 230–265.
 
 ⁶ Dawkins, Richard (1986). _The Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe without Design_. W. W. Norton & Company.
+
+---
+© Züri Bar Yochay
