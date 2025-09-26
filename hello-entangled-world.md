@@ -40,3 +40,6 @@ When you look at your measurement logs, you will see the universe waving back:
 This perfect correlation, despite the individual randomness, is the definitive proof of entanglement. It’s a message that could only be written with the laws of quantum mechanics.
 
 Good luck. Let me know what the universe says.
+
+---
+© Züri Bar Yochay
