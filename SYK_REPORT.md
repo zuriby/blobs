@@ -161,3 +161,9 @@ Complete eigenspectra and analysis code are available at:
 **Date: September 2025**
 **Computation Time: 318 GPU-hours total on NVIDIA A100**
 **Files Analyzed: 691 files (611 unique seeds) across N=16,20,24,28**
+
+
+
+---
+© Züri Bar Yochay
+
