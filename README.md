@@ -16,3 +16,10 @@
 ###### 2025-03-17
 [SYK Simulation Report](SYK_REPORT.md)
 
+
+
+
+
+
+---
+© Züri Bar Yochay
