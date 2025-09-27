@@ -24,6 +24,6 @@
 ---
 © Züri Bar Yochay
 
-[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en)
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en) [HTML Version](yk-report/syk_updated_report.html)
 **Attribution-ShareAlike 4.0 International**
 
