@@ -1,3 +1,5 @@
+###### 2025-11-25
+[David Chillag Z"L](david-chillag-zl.md)
 ###### 2025-09-26
 [The True Religion of Truth: Mathematics and the Infinity Within](the-true-religious-of-truth.md)
 ###### 2025-09-23
