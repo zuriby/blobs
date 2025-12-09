@@ -14,7 +14,8 @@ Is it always positive? For every real number $x$?
 
 The **Analyst** approaches this like a manual laborer. They view $x$ as a moving target, a number that shifts and slides. To tame it, they chop the number line into pieces—"Let's check when $x$ is large," "Let's check when $x$ is negative." They build fences (inequalities), estimate errors, locate critical points. Take the derivative, set it to zero, solve the cubic $4x^3 - 2x - 6 = 0$, evaluate...
 
-It works. It's honest, hard work. But it's the math of "good enough."
+It works. It's honest, hard work. But it's the math of "good enough." [here](#footnote)
+
 
 The **Algebraist** looks at the same expression and sees something else entirely. They don't see a moving number; they see a static structure waiting to be revealed:
 
@@ -197,6 +198,28 @@ And when we refuse to stop at "undefined"—when we demand that the machine exte
 Sometimes the answer is nothing (division by zero). Sometimes the answer is a cosmos (complex exponentiation).
 
 The art is learning to ask.
+
+---
+
+### [Footnote] 
+
+##### Here is what the analyst's proof actually looks like:
+
+**Case 1:**
+If $x \leq -1$, then $x^4 \geq x^2$ and $10 - 6x \geq 0$, so the result is certainly true.
+
+**Case 2:**
+If $-1 \leq x \leq 1$, then $|x^4 - x^2 - 6x|$ cannot exceed $x^4 + x^2 + 6|x| \leq 8$, so $x^4 - x^2 - 6x \geq -8$, which implies $x^4 - x^2 - 6x + 10 \geq 2$.
+
+**Case 3:**
+If $1 \leq x \leq \frac{3}{2}$, then $x^4 \geq x^2$ and $6x \leq 9$, so $x^4 - x^2 - 6x + 10 \geq 1$.
+
+**Case 4:**
+If $\frac{3}{2} \leq x \leq 2$, then $x^2 \geq \frac{9}{4}$, so $$x^4 - x^2 = x^2(x^2 - 1) \geq \frac{9}{4} \cdot \frac{5}{4} > 2$$ Also, $6x \leq 12$, so $10 - 6x \geq -2$. Therefore $x^4 - x^2 - 6x + 10 > 0$.
+
+**Case 5:**
+If $x \geq 2$, then $x^4 - x^2 = x^2(x^2 - 1) \geq 3x^2 \geq 6x$, from which it follows that $x^4 - x^2 - 6x + 10 \geq 10$.
+
 
 ---
 
