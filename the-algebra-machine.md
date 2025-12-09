@@ -37,7 +37,7 @@ The **Algebraist** looks at the same expression and sees something else entirely
 
 $$x^4 - x^2 - 6x + 10 = (x^2 - 1)^2 + (x - 3)^2$$
 
-A sum of two squares. Always non-negative. Proof complete. [—Princeton Companion to Mathematics](^1)
+A sum of two squares. Always non-negative. Proof complete. [^1]
 
 The mystery isn't the verification—you can expand the right side in seconds. The mystery is: *how would you ever find that decomposition?* The algebraic proof is shorter, cleaner, more illuminating. But it required *seeing* a hidden architecture that the original expression concealed.
 
