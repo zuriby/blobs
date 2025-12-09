@@ -1,4 +1,5 @@
 ###### 2025-12-09
+[The Unmasking](e.md)
 [The Algebra Machine](the-algebra-machine.md)
 ###### 2025-11-25
 [David Chillag Z"L](david-chillag-zl.md)
