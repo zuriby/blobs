@@ -1,3 +1,5 @@
+###### 2025-12-09
+[The Algebra Machine](the-algebra-machine.md)
 ###### 2025-11-25
 [David Chillag Z"L](david-chillag-zl.md)
 ###### 2025-09-26
