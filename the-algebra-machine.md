@@ -110,7 +110,7 @@ Now we arrive at the truly strange.
 
 **$x^{1/2}$** — the number which, squared, gives $x$. Defined by its relationship to what we understood.
 
-**$x^{p/q}$** — take the $q$th root, raise to the $p$th power. Still grounded in integers, composed cleverly.
+**$x^{p/q}$** — take the $q^{th}$ root, raise to the $p^{th}$ power. Still grounded in integers, composed cleverly.
 
 **$x^\pi$** — here is the leap.
 
