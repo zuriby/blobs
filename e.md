@@ -175,4 +175,5 @@ There is only one number. The rest are masks.
 ---
 
 *Written at the end of a long day, December 2025*
+
 Dedicated to Professor Steven Strogatz - My calculus igniter and long-time inspiration.
