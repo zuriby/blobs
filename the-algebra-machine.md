@@ -214,7 +214,10 @@ And when we refuse to stop at "undefined"—when we demand that the machine exte
 Sometimes the answer is nothing (division by zero). Sometimes the answer is a cosmos (complex exponentiation).
 
 The art is learning to ask.
+
 ---
 [^1]: Graham Allan, Noga Alon, et al, The Princeton Companion to Mathematics, Princeton University Press, 3-3
 
 *Written in conversation between a student and a machine, December 2025*
+
+Dedicated to my Linear Algebra teacher, Professor David Chillag Z"L.
