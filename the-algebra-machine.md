@@ -37,7 +37,7 @@ The **Algebraist** looks at the same expression and sees something else entirely
 
 $$x^4 - x^2 - 6x + 10 = (x^2 - 1)^2 + (x - 3)^2$$
 
-A sum of two squares. Always non-negative. Proof complete. [^1]
+A sum of two squares. Always non-negative. Proof complete. [—Princeton Companion to Mathematics](^1)
 
 The mystery isn't the verification—you can expand the right side in seconds. The mystery is: *how would you ever find that decomposition?* The algebraic proof is shorter, cleaner, more illuminating. But it required *seeing* a hidden architecture that the original expression concealed.
 
@@ -214,30 +214,7 @@ And when we refuse to stop at "undefined"—when we demand that the machine exte
 Sometimes the answer is nothing (division by zero). Sometimes the answer is a cosmos (complex exponentiation).
 
 The art is learning to ask.
-
 ---
-
-### [Footnote] 
-
-##### Here is what the analyst's proof actually looks like:
-
-**Case 1:**
-If $x \leq -1$, then $x^4 \geq x^2$ and $10 - 6x \geq 0$, so the result is certainly true.
-
-**Case 2:**
-If $-1 \leq x \leq 1$, then $|x^4 - x^2 - 6x|$ cannot exceed $x^4 + x^2 + 6|x| \leq 8$, so $x^4 - x^2 - 6x \geq -8$, which implies $x^4 - x^2 - 6x + 10 \geq 2$.
-
-**Case 3:**
-If $1 \leq x \leq \frac{3}{2}$, then $x^4 \geq x^2$ and $6x \leq 9$, so $x^4 - x^2 - 6x + 10 \geq 1$.
-
-**Case 4:**
-If $\frac{3}{2} \leq x \leq 2$, then $x^2 \geq \frac{9}{4}$, so $$x^4 - x^2 = x^2(x^2 - 1) \geq \frac{9}{4} \cdot \frac{5}{4} > 2$$ Also, $6x \leq 12$, so $10 - 6x \geq -2$. Therefore $x^4 - x^2 - 6x + 10 > 0$.
-
-**Case 5:**
-If $x \geq 2$, then $x^4 - x^2 = x^2(x^2 - 1) \geq 3x^2 \geq 6x$, from which it follows that $x^4 - x^2 - 6x + 10 \geq 10$.
-
-
----
-[^1]: Graham Allan, Noga Alon, et al, The Princtone Companion to Matehmatics, Princeton University Press, 3-3
+[^1]: Graham Allan, Noga Alon, et al, The Princeton Companion to Mathematics, Princeton University Press, 3-3
 
 *Written in conversation between a student and a machine, December 2025*
